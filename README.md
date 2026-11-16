@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/cecilusmax33/cecilusmax33/main/assets/logos/exebashagent-logo.png" alt="ExeBashAgent-Console-Framework-v1.0.0 logo" width="220"></p>
+
 # ExeBashAgent$ Console Framework
 
 A full interactive bash console with agent support and custom branding — v1.0.0.
